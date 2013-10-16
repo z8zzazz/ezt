@@ -47,7 +47,7 @@ public class ezt
 	private void run()
 	{
 			System.out.println("\n"
-			                 + "     ezt : easy tripcode"
+			                 + "     ezt : easy tripcode\n"
 			                 + " [http://github.com/z8zzazz]\n"
 			                 + "     [z8zzazz@gmail.com]     \n");
 			System.out.println("Create a new key pair? TRUE/FALSE");
